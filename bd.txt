@@ -1,0 +1,5 @@
+Artem Chivick: 10, 9, 8, 11, 10: Python
+Danes Kovalenko: 9, 8, 7, 10, 9: Java, FrontEnd
+Nekita Terninko: 8, 7, 6, 9, 7: FrontEnd
+Artur Tokarev: 9, 12, 7, 6, 7: FullStack
+Kerell Olhanskey: 8, 10, 9, 7, 11: Python, FrontEnd
